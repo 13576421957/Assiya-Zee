@@ -20,7 +20,9 @@ public class _01_OUR {
         } catch (InterruptedException e) {
             e.printStackTrace();
 
+
         }
+        driver.quit();
     }
 }
 
